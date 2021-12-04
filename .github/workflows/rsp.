@@ -1,0 +1,31 @@
+#python project:(rock, scissors, paper against computer)
+i=input("please select rock,scissors or paper, and write the name here: ")
+rsp=["rock","scissors","paper"]
+import random    
+n=random.choice(rsp)
+print(n)
+print(i)
+def compare (i,n):
+    if i == n:
+        return("it's a tie")
+    else:
+        if i == "rock":
+            if n == "scissors":
+                return("you won!")
+            else:
+                return("you lost!")
+        elif i == "paper":
+            if n == "rock":
+                return("you won!")
+            else:
+                return("you lost!")
+        elif i == "scissors":
+            if n == "rock":
+                return("you lost!")
+            else :
+                return("you won!")
+print( compare(i,n))
+again=input("do you want to play again?")
+if again=="yes":
+
+     
