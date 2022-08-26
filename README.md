@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atefeh62
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data analysis 
-- 💞️ I’m looking to collaborate on whatever related to this field
+- 👀 I’m mathematician interested in data Analitics
+- 🌱 I’m currently a data analyst, alway open to learn more
+- 💞️ I’m looking to collaborating on whatever related to this field
 - 📫 How to reach me ...
 
 <!---
